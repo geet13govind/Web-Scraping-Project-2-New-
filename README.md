@@ -1,5 +1,5 @@
 # Nexthikes-Project -2 -2
-# Web Scraping and saved scrapped data in to csv file.
+# Web Scraping and save scrapped data in to csv file.
 
 # Prerequisites:
 
