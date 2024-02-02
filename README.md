@@ -7,7 +7,7 @@ Used BeautifulSoup, Requests, and pandas library to work on project
 
 # Project details:
 
-This project is to extract all the records from the website "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html" and saved them in csv file in tabular format.
+This project is to extract all the records from the website "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html" and saved them into csv file in tabular format.
 
 # Work done on Project:
 
